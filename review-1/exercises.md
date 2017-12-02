@@ -95,7 +95,7 @@ Inside this Nav Bar, we'll need to write an **unordered list** with a class of `
 Unordered List: `<ul></ul>`
 List items: `<li></li>`
 (Careful: List items need to always be inside an ordered or unordered list)
-Add an id: `<div id="name_of_id"></div>`
+Add an id: `<div id="name-of-id"></div>`
 
 Those **list items** should scroll the user to the corresponding section of the page. To do this, we need to add **anchor** tags to our menu items.
 
@@ -127,12 +127,12 @@ Create a title called: "About Me" with a class of `about-title`
 
 **Hint:**
 h2 tags : `<h2></h2>`
-id attribute: `<h2 id="your_id"></h2>`
+id attribute: `<h2 id="your-id"></h2>`
 If you want your `<a>` to redirect to your `<h2>` section, href attribute must target the `<h2>` id.
 Ex:
 ```html
-  <a href="#your_id">This link will scroll to HELLO WORLD</a>
-  <h2 id="your_id">HELLO WORLD</h2>
+  <a href="#your-id">This link will scroll to HELLO WORLD</a>
+  <h2 id="your-id">HELLO WORLD</h2>
 ```
 
 #### Skills section
@@ -148,7 +148,7 @@ Use `<ul></ul>` for your list
 Don't forget `<li></li>` inside your unordered list.
 
 #### interests section
-We want to also show our interests in our website. Let's do the exact same as we did for our skills but replace by our interests. Replace `skills`, `skills_title` & `skills_list` by `interests`, `interests_title` and `interests-list`
+We want to also show our interests in our website. Let's do the exact same as we did for our skills but replace by our interests. Replace `skills`, `skills-title` & `skills-list` by `interests`, `interests-title` and `interests-list`
 
 
 ### Contact Form
