@@ -119,7 +119,7 @@ h5 tags : `<h5></h5>`
 
 
 ### About Me
-Good Job! You have a written a nice header! Now let's make an About me section. Let's create 2 other `<div></div>` where we'll put all our About Me content. The first one will have a class of `container`, the second one will have a class of `second-section`
+Good Job! You have a written a nice header! Now let's make an About me section. Let's create 2 other `<div></div>` where we'll put all our About Me content. The first one will have a class of `container`, the second one will be nested within our container and have a class of `second-section`
 
 #### Title
 Create a `<div></div>` and give it the same id that you put in your **about Anchor tag**.
