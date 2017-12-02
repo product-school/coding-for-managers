@@ -139,8 +139,8 @@ Ex:
 Let's make 2 other `<div></div>`. The first will wrap both Skills and Passion section and the second one  will only wrap our Skills section. Give the first div a class of `skills-interests-container` and the second one a class of `skills`
 
 Inside that:
-- create a title: "My Skills" with a class of `skills_title`
-- create a list of your skills with a class of `skills_list`
+- create a title: "My Skills" with a class of `skills-title`
+- create a list of your skills with a class of `skills-list`
 
 **Hints:**
 Use `<h3></h3>` for your title
