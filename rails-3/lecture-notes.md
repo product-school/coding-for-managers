@@ -127,4 +127,7 @@ Active Record associations provide convenience methods to your models.
 
 This will ensure that each post is associated with the user that created it. There are other ways of creating a post with the user_id attached, but the above method is the most straight forward.
 
+BONUS: Add a 4th column for the blog posts, which shows the author for each blog post. 
+BONUS 2: Make the format of the "author" the actual name, and not the email address of the user.
+
 Homework: [Add permissiong/authorization to your app using cancancan](../authorization)
