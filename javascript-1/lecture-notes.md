@@ -162,7 +162,7 @@ Let's create a simple tip calculator. Under the `player_title` `div`, let's add:
 
 ```html
 <br/>
-<input id="meal_cost" type="number"/>
+<input id="meal_cost" type="number" placeholder="Meal Cost"/>
 <br/>
 <button id="add_tip">Add Tip</button>
 <br/>
