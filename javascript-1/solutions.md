@@ -32,6 +32,32 @@ function addTipAmount(event) {
 
 }
 ```
+### Number Guesser
+
+```js
+var guessButton = document.getElementById('makeGuess')
+guessButton.addEventListener('click', performGuess)
+
+var AI_Guess = Math.round(Math.random() * 10)
+
+
+function performGuess() {
+      var userInput = document.getElementById("yourGuess").value * 1.0;
+      var status = ""
+
+      if (userInput == AI_Guess) {
+            status = "Wow you got it!"
+      } else if (userInput < AI_Guess) {
+            status = "You guessed a smaller number"
+      } else {
+            status = "Your guess is too high"
+      }
+      console.log('status is: ', status)
+
+      var output = document.getElementById("status")
+      output.innerHTML = status;
+}
+```
 
 ### The Fortune Teller
 
