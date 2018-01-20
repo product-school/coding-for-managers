@@ -16,6 +16,23 @@
 
 ## Functions
 
+### Tip Calculator
+```js
+var addTipElement = document.getElementById('add_tip');
+
+addTipElement.addEventListener('click', addTipAmount)
+
+function addTipAmount(event) {
+      var tipAmount = prompt('what percentage tip would you like to leave?')
+
+      var originalMealCost = document.getElementById("meal_cost").value
+      var total = Math.round((1 + tipAmount/100) * originalMealCost);
+
+      var totalCost = document.getElementById("total_cost").innerHTML = "You need to pay: $" + total
+
+}
+```
+
 ### The Fortune Teller
 
 ```js
