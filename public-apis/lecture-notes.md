@@ -108,5 +108,7 @@ $.ajax({
 **Exercise 1**
 Inside of our success function in the above AJAX object, we have access to the data that was sent from our server. Instead of just console logging our result, let's show it to our users. Use JQuery to select an element (maybe `.title-2`) and update its text to be either the current weather description, the current temperature, or a forecast.
 
+***Advanced:*** Get the temperature to update in real time on your page without reloading the entire page.
+
 **Exercise 2**
 Use the HTML5 [geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation) to get the user's current location. Send that the latitude and longitude your server using the AJAX data property. You can access the browser's HTML5 geolocation API using JavaScript with `navigator.geolocation.getCurrentPosition((location) => {console.log(location)})`
