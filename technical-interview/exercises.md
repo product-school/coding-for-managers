@@ -8,6 +8,12 @@ There will be two phases to our interview: The question stage, and the architect
 
 This is your opportunity to really shine as an engineer. Really a good programmer is not just someone who can write good code, but it's someone who can explain their _solution_ concisely, and with a logic that flows and is easy to understand. In the real world, startups and big companies will constantly spend resources (time + money) building something that they don't end up using. It's not just on the Product Managers to make all the decisions- a good programmer always has a "_why_" for what he is building, and will actively speak up if something is not feasible or does not deliver the user true value. 
 
+* Architecture Overview
+
+Together with your team member come up with a new exciting startup idea that is going to use the latest tech. You need to incorporate at least one third party API, and your solution must be "full stack" (involving at the least a frontend, server, and database). If you really are stuck on ideas check out this site: http://tiffzhang.com/startup/index.html?s=174598551673
+
+You will need to draw your architecture diagram and explain the choices you made for the tech stack. 
+
 
 
 ## Adding a feature to your blog.
