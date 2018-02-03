@@ -1,3 +1,15 @@
+## Technical Interviews
+
+Let's split up into teams of two if possible
+
+There will be two phases to our interview: The question stage, and the architecture design stage
+
+* Conceptual Questions
+
+This is your opportunity to really shine as an engineer. Really a good programmer is not just someone who can write good code, but it's someone who can explain their _solution_ concisely, and with a logic that flows and is easy to understand. In the real world, startups and big companies will constantly spend resources (time + money) building something that they don't end up using. It's not just on the Product Managers to make all the decisions- a good programmer always has a "_why_" for what he is building, and will actively speak up if something is not feasible or does not deliver the user true value. 
+
+
+
 ## Adding a feature to your blog.
 
 We're going to add some real functionality to the favoriting system
