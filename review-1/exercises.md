@@ -2,7 +2,7 @@
 
 We've covered a lot of front-end concepts in these firsts courses. Let's put all together by building a simple landing page for our project. We'll do something called **pair programming** today. Team up with a partner sitting next to you to go through today's exercises. Don't be shy!
 
-If at one point, you feel stuck, you can check the [solution](solutions) to get help with your code.
+If at one point, you feel stuck, you can check the [solution](solutions.md) to get help with your code.
 
 ## Set up
 First, let's create a new Cloud 9 project, that we will call `landing-page`. Once everything is loaded, you can remove all the different folders and files that are preloaded so that you can start from scratch.
