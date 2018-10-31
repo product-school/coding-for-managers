@@ -49,7 +49,6 @@ An Integrated Development Environment (IDE) is program that combines several too
     * CLI
 
 At the bottom of your workspace in Cloud 9, you will see something called the command line interface (CLI) or console or shell. Typically, this application will let you access, create, delete files and folders without using the usual graphical interface of your computer. It is very useful once you start creating complex applications because you will need to have all your work in local files and still be able to share it with your team.
-[Here](http://www.galvanize.com/learn/learn-to-code/programming-101-how-to-use-the-terminal-command-line/) is a video that explains more in depth the use of the command line.
 
 * Shell Commands ([POSIX](http://pubs.opengroup.org/onlinepubs/9699919799/)/[UNIX](https://upload.wikimedia.org/wikipedia/commons/c/cd/Unix_timeline.en.svg))
     * `ls` (`-t`, `-a`)
